@@ -1,0 +1,23 @@
+{
+    "food": [
+        {
+            "id": 1,
+            "name": "Burger",
+            "img": "https://i.pinimg.com/564x/ad/ca/b2/adcab2d2165598c7208bc2105b266c61.jpg",
+            "price": 10
+        },
+        {
+            "id": 2,
+            "name": "Pizza",
+            "img": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2017/08/Night-Train-Pizza-Nashville-47.jpg",
+            "price": 20
+        },
+        {
+            "id": 3,
+            "name": "Pasta",
+            "img": "https://i.pinimg.com/564x/49/7c/95/497c956c9e4b1f301ba4746714131389.jpg",
+            "price": 30
+        }
+
+    ]
+}
